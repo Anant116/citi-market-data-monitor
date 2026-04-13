@@ -1,0 +1,15 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // Graph library
+    compile 'org.jfree:jfreechart:1.5.3'
+
+    testCompile 'junit:junit:4.12'
+}
+
+mainClassName = 'App'
