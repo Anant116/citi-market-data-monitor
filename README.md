@@ -35,7 +35,14 @@ A real-time stock market monitoring system built using Java that fetches live ma
 ---
 
 ## 📸 Screenshots
+### Live Dashboard
+Real-time DJIA price visualization using time-series chart
 <img width="1366" height="768" alt="Screenshot_20260412_223249" src="https://github.com/user-attachments/assets/86e829c1-28e3-4b8f-9ffe-b73c57b18a58" />
+
+### Real-Time data Update
+Continuous polling with timestamp price updates
+<img width="1366" height="723" alt="Screenshot_20260412_223228" src="https://github.com/user-attachments/assets/d0e2df58-162c-4e24-8e6c-064f8dfec2e1" />
+
 
 
 ---
